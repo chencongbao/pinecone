@@ -1,5 +1,5 @@
 {
-    "name": "adrianmejias/pinecone",
+    "name": "chencongbao/pinecone",
     "description": "This package provides a Laravel wrapper for the Pinecone API.",
     "type": "library",
     "keywords": [
@@ -7,12 +7,12 @@
         "api",
         "laravel"
     ],
-    "homepage": "https://github.com/adrianmejias/pinecone",
+    "homepage": "https://github.com/chencongbao/pinecone",
     "license": "MIT",
     "authors": [
         {
-            "name": "Adrian Mejias",
-            "email": "adrianmejias@gmail.com"
+            "name": "Bob",
+            "email": "lhaiccb@gmail.com"
         }
     ],
     "require": {
